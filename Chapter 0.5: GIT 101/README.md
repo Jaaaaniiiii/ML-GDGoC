@@ -1,6 +1,7 @@
 # 🚀 Git 101 & GitHub 101
 
 Dokumentasi dasar **Git** dan **GitHub** untuk mempermudah pengelolaan proyek dan kolaborasi tim.
+**[Link Recording](https://drive.google.com/file/d/1oM-VMhJxRYTo5TliU0bfBgcANwZ-MlXZ/view?usp=sharing)**
 
 ---
 
